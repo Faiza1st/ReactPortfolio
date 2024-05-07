@@ -2,7 +2,7 @@
 React Portfolio
 
 ## Description 
-
+Welcome to my React Portfolio! As a web developer, having a portfolio is essential for showcasing my projects and skills to potential employers, clients, and fellow developers. This appication focuses on building a portfolio using React, a modern JavaScript library for building user interfaces.
 
 ## Deployed Link 
 
